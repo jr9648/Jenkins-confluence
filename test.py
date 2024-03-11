@@ -22,7 +22,7 @@ def write_trigger_data(data):
         json.dump(data, file, indent=4)
 
 # Replace these values with your Confluence site URL, page ID, and base64-encoded token
-confluence_url = "https://sharmasid2398.atlassian.net/wiki"
+confluence_url = "https://jr9648.atlassian.net/wiki"
 page_id = "163997"
 base64_encoded_token = "c2hhcm1hc2lkMjM5OEBnbWFpbC5jb206QVRBVFQzeEZmR0YwaHdEbVBXTmFGT184WTJKYkNJajFYbDE2LTlIZUdaR21kdTQxRFVYNURmRGdZY1QxMW5GMUhOekpjUjh1bkRsRWlfMFh0R0ctZTZsd1JXWDZZR0xOckdSbHV2SWpCTFJySlVjdUJwX3VJMnM5VVhVX3oyN3VzSFBNS0RaOVZGVUtuYXpEMWtybUQzVlIxbHJmb3ExeXJSaDNKQ1hrMWJUYlhKSkRrUDh5dkJZPTY0QjA4NzUw"
 

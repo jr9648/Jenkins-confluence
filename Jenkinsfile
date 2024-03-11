@@ -23,7 +23,7 @@ pipeline {
             steps {
                 script {
                     // Checkout code from Git repository using SSH key authentication
-                    git url: 'git@github.com:sidwar76/Jenkins-confluence.git'
+                    git url: 'git@github.com:jr9648/Jenkins-confluence.git'
                 }
             }
         }
